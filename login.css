@@ -1,3 +1,5 @@
 html, body {
-    background-image: "./images/IMG_1865.JPG";
+    background-color: pink;;
+    overflow: hidden;
+    display: block;
 }
