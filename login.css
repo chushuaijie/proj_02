@@ -1,5 +1,11 @@
 html, body {
+<<<<<<< HEAD
     margin: 0;
     padding: 0;
     background-color: pink;
+=======
+    background-color: pink;;
+    overflow: hidden;
+    display: block;
+>>>>>>> login
 }
